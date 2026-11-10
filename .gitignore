@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.skill
+list.json
+.DS_Store
