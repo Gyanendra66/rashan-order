@@ -1,5 +1,9 @@
 # rashan-order 🛒
 
+[![tests](https://github.com/Gyanendra66/rashan-order/actions/workflows/test.yml/badge.svg)](https://github.com/Gyanendra66/rashan-order/actions/workflows/test.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Python 3.7+](https://img.shields.io/badge/python-3.7%2B-blue.svg)
+
 Claude ke liye ek skill: ghar ke rashan / zaruri saman ki list banao, aur Claude us list ko Blinkit (ya Zepto, Instamart, BigBasket) par cart me daal kar, **aapki final haan ke baad**, UPI se order kar de. Schedule bhi laga sakte ho (har Sunday, har mahine ki 1 tarikh...).
 
 A Claude skill that keeps a household grocery list and turns it into a real order on Blinkit or a similar store, paid by UPI after your final confirmation, optionally on a schedule.
