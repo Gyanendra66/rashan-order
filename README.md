@@ -17,7 +17,7 @@ A Claude skill that keeps a household grocery list and turns it into a real orde
 **Claude Code** - `rashan-order` folder ko apne skills folder me copy karo:
 
 ```bash
-git clone https://github.com/<your-username>/rashan-order.git
+git clone https://github.com/Gyanendra66/rashan-order.git
 ```
 
 ```bash
